@@ -1,0 +1,52 @@
+cg{
+    box-sizing:border-box;
+    margin:0;
+    padding:0;
+  }
+  
+  body{
+    padding:15px;
+  }
+  main{
+    background-color:rgba(0,25,100,0.3);
+  max-width:1500px;
+  padding:40px;
+  border-radius:2rem;
+  margin:20px auto;
+  }
+  
+  h1,h2,p{
+    text-align:center;
+  }
+  #img-div{
+    display:block;
+    background-color:#fff;
+    padding:30px ;
+    max-width:700px;
+    margin:20px auto;
+    overflow:hidden;
+   
+    
+  }
+  
+  #image{
+    max-width:100%;
+    margin:0 auto;
+    height:auto;
+    display:block;
+    
+  
+  }
+  
+  ul li{
+    padding:10px;
+  
+  }
+  ul{
+    margin:20px;
+  }
+  
+  a{
+    text-decoration:none;
+    color:rgba(23,19,245,0.9)
+  }
